@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="155px"/></a>
-=======
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="125px"/></a>
->>>>>>> 687fd0967d76984f370603f1890806f49304e029
-=======
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="155px"/></a>
->>>>>>> 5b3de4d49925f971865649d14de9bfb362cbe54b
 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="155px"/></a>
+=======
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arif</h1>
 <h3 align="center">I'm a passionate Software Developer</h3>
 
