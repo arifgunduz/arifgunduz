@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working freelancer
 
-- 🌱 I’m currently learning Java ,Flutter and .NET 
+- 🌱 I’m currently learning Java ,Flutter and Unity 
 
 - 👯  I’m looking to collaborate on any project that could be improve for my coding.
 <!-- 
